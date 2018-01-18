@@ -18,10 +18,10 @@ npm
 ### Installing
 pause adblock lolol
 
-$ npm install --save firebase
-$ npm install --save react-router-dom
-npm start for node server 
-npm run build / npm build for building
+* $ npm install --save firebase
+* $ npm install --save react-router-dom
+* npm start for node server 
+* npm run build / npm build for building
 
 ## Built With
 es6
